@@ -15,10 +15,11 @@ Follow the prompts to enter your phone number, 2FA password (if enabled), and ve
 Upon successful connection, the session information will be saved to a JSON file specified in the filePath variable.
 Note: Make sure to keep the apiId, apiHash, and stringSession values secure as they provide access to your Telegram Bot API. Do not share these values with anyone else.
 
-# Contributors: [LP]
+# Contributors: 
+LP
 
-#License: 
-![License](https://opensource.org/license/mit/)
+# License: 
+[License MIT](https://opensource.org/license/mit/)
 
 References:
 
