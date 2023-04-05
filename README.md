@@ -23,7 +23,7 @@ LP
 
 References:
 
-Telegram Bot API: https://core.telegram.org/bots/api
-TelegramClient Library: https://github.com/telegram-rs/telegram-client
-input Library: https://www.npmjs.com/package/input
-fs Library: https://nodejs.org/api/fs.html
+- Telegram Bot API: https://core.telegram.org/bots/api
+- TelegramClient Library: https://github.com/telegram-rs/telegram-client
+- input Library: https://www.npmjs.com/package/input
+- fs Library: https://nodejs.org/api/fs.html
